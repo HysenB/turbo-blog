@@ -1,0 +1,3 @@
+[submodule "api"]
+        path = apps/api
+        url = ssh://git@github.com/place/where/submodule/lives.git
